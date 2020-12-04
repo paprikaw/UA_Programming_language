@@ -1,3 +1,5 @@
+use "hw0_provided.sml";
+
 (* Homework0 Simple Test *)
 
 (* These are basic test cases. Passing these tests does not guarantee that your code will pass the actual homework grader *)
