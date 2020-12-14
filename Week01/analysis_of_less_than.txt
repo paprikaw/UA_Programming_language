@@ -1,0 +1,11 @@
+Syntax:
+    e1 < e2
+    where < is the keywords and e1, e2 is the expressions
+
+Type checking:
+     e1 and e2 can be any type but they must have the same type(that's call it t)
+     the type of the whole expression is bool
+
+
+Evaluation rules:
+     Evaluates the e1 and e2 and we can get the value v1 and v2. In terms of this, we can get the value of the whole expression which is according to whether v1 is less than v2. If it does, we get result true. Otherwise, the result will be false.
