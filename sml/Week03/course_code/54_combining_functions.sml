@@ -13,7 +13,7 @@ val sqrt_of_abs = Math.sqrt o Real.fromInt o abs
 infix !> 
 
 (* operator more commonly written |>, but that confuses the current version
-   of SML Mode for Emacs, leading to bad editing and formatting *)
+   of  Mode for Emacs, leading to bad editing and formatting *)
 
 (* definition of the pipeline operator *)
 fun x !> f = f x
